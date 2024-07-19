@@ -22,5 +22,4 @@
 
 ### Process flow
 
-![generic-deep-code](https://github.com/user-attachments/assets/29b014ee-53ed-4bb6-a3b1-df426bc65fea)
-
+![generic-deep-code](https://github.com/user-attachments/assets/cbd0ba0d-bbd6-4268-88bc-cb6d78f31b9e)
