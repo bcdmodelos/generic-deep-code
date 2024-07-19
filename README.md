@@ -1,12 +1,12 @@
 ## Deep Learning for Kernel Selection in Gaussian Process Regression
 
-### Kernel-possibilities code
+### kernel-possibilities code
 * Data Reading:  loads a time series from a CSV file.
 * Kernel Combinations: generates combinations of Gaussian kernels using sum and multiplication operations.
 * Validation: checks if the resulting combinations produce positive definite covariance matrices.
 * Save: saves the valid combinations in a CSV file.
 
-### Kernel-library code
+### kernel-library code
 * Data Reading: loads and prepares the time series.
 * Function Definition:  defines functions to evaluate kernels and calculate performance metrics.
 * Reading Kernels: loads possible combinations of kernels from a CSV file.
