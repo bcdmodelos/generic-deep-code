@@ -4,14 +4,14 @@
 * Data Reading:  loads a time series from a CSV file.
 * Kernel Combinations: generates combinations of Gaussian kernels using sum and multiplication operations.
 * Validation: checks if the resulting combinations produce positive definite covariance matrices.
-* Save: saves the valid combinations in a CSV file.
+* Save: saves the valid combinations in a CSV file in the dataset/dataset_possibilities directory.
 
 ### kernel-library code
 * Data Reading: loads and prepares the time series.
 * Function Definition:  defines functions to evaluate kernels and calculate performance metrics.
 * Reading Kernels: loads possible combinations of kernels from a CSV file.
 * Batch Processing: evaluates kernels in batches.
-* Evaluate and Save: evaluates each kernel, calculates performance metrics, and saves the results in a CSV file.
+* Evaluate and Save: evaluates each kernel, calculates performance metrics, and saves the results in a CSV file in the dataset/dataset_library directory.
 
 ### model-deep-kernel code
 * Data Reading: data is loaded and prepared for model training.
