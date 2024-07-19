@@ -18,3 +18,9 @@
 * Model Building and Training: a deep learning model is used for predicting the R²teste metric.
 * Evaluation and Prediction: the model is evaluated, and predictions are made for all the data.
 * Identification of the Best Kernel: the best kernel is identified and printed.
+
+
+### Process flow
+
+![generic-deep-code](https://github.com/user-attachments/assets/29b014ee-53ed-4bb6-a3b1-df426bc65fea)
+
